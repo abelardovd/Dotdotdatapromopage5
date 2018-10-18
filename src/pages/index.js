@@ -73,11 +73,12 @@ const IndexPage = () =>
 
     <Content>
       <Section Textcenter='We belive in building networks that boost Our clients advertising performance.'/>
-      <Section image={image2}/>
+      <Section image={image3}/>
       <Section Textcenter='Distribute your online promotions or specials directly to anyones smartphone with bluetooth messaging.' />
+      <Section image={image2}  />
       <Section Textcenter='Wanna Buy One?'/> 
       <Section Textcenter= 'Book A demo Today.'/>
-      <Section image={image3}  />
+      
     </Content>
 
     <Footer>
